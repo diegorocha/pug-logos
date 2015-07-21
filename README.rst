@@ -54,7 +54,7 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Piauí
 
-    - PUGPI (`logo <logo-pugpi.png>`)
+    - PUGPI (`logo <logo-pugpi.png>`_)
 
 * Rio de Janeiro
 
