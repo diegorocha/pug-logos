@@ -38,6 +38,8 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Minas Gerais
 
+    - PUG-MG (`logo <python-mg-Logo.png>`_, `original em <https://github.com/python-mg/python-mg/blob/master/logos/python-mg-Logo.png>`_)
+
 * Pará
 
 * Paraíba
