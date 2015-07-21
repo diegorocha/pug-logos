@@ -54,11 +54,13 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Rio de Janeiro
 
-    - Pythonrio (`logo <pythonrio.png>`_)
+    - `PythOnRio <http://wiki.python.org.br/PythOnRio>`_ (`logo <pythonrio.png>`_)
 
 * Rio Grande do Norte
 
 * Rio Grande do Sul
+
+    - PyTchê (`logo <logo_pytche.png>`_, `original em <https://github.com/PyTche/pytche-site/blob/master/_static/logo_pytche.png>`_)
 
 * Rondônia
 
