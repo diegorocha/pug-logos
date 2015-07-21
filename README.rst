@@ -52,6 +52,8 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Piauí
 
+    - PUGPI (`logo <logo-pugpi.png>`)
+
 * Rio de Janeiro
 
     - `PythOnRio <http://wiki.python.org.br/PythOnRio>`_ (`logo <pythonrio.png>`_)
