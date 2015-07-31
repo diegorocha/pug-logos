@@ -18,6 +18,8 @@ A ideia surgiu de `um e-mail na lista Python Brasil <https://groups.google.com/f
 
 * Ceará
 
+    - PUG-CE (`logo <logo-pugce.png>`_)
+
 * Distrito Federal
 
     - `grupy-df <http://grupydf.github.io/>`_ (`logo <grupy-df.svg>`_, `original em <https://github.com/grupydf/logo/blob/master/propostas-svg/proposta-9.svg>`_)
